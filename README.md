@@ -1,3 +1,8 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GYMMX&fontAlign=74&fontAlignY=40&color=gradient)
+
+
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=GYMMX&show_icons=true)
 
 # 🌱 Skills
 
@@ -11,11 +16,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"/>  
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GYMMX&fontAlign=74&fontAlignY=40&color=gradient)
 
-
-
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=GYMMX&show_icons=true)
 
 <!--
 **GYMMX/GYMMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
