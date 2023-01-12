@@ -1,9 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GaGyeong&fontAlign=74&fontAlignY=40&color=gradient)
 
 
-
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=gagyeong17&show_icons=true)
-
 # 🌱 Skills
 
 #### Stacks
